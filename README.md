@@ -1,18 +1,27 @@
 <h1 align="center">Hi 👋, I'm Apurba Dutta</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer (MERN) | Jr. Software Engineer Intern</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Learner;React+%7C+Node+%7C+MongoDB;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Automation+%7C+Funnels+%7C+AI+Agents;Building+Real+World+Projects&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working as a **Software Engineer Intern**
-- 🌱 I’m learning and building with **MERN Stack**
-- 💡 I love creating **clean UI + functional web apps**
-- 🧠 Problem solver & continuous learner
-- 📫 Reach me: **apurbadutta2099@gmail.com**
+- 💼 Currently working as a **Jr. Software Engineer Intern**
+- 🏢 Working on real client & company projects  
+- 🔧 Building full stack applications using MERN  
+- ⚡ Working with automation systems, funnels & AI agents  
+- 📈 Regular GitHub activity through personal & client work  
+- 📫 Email: **apurbadutta2099@gmail.com**
+
+---
+
+## 💼 Work Experience
+- 👨‍💻 **Jr. Software Engineer Intern**  
+  - Developing real-world applications  
+  - Building funnels, automation workflows & AI agents  
+  - Working with GoHighLevel (GHL) platform  
 
 ---
 
@@ -22,41 +31,72 @@
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,tailwind" />
+
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 🧠 Additional Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
+</p>
+
+- SQL  
+- MS Excel  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+## 🤖 Automation & Funnels
+<p>
+  <img src="https://i.ibb.co/PvWhbdKN/ghl.jpg" height="80" />
 </p>
+
+- GoHighLevel (GHL) – Pipelines, Automation, Funnel Building  
+- AI Agents & Conversational Bots  
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+## 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+- Google Antigravity (experimental tools & integrations)
 
 ---
 
-## 📌 Featured Projects
-- 🔹 Movie App (React + API)
-- 🔹 Portfolio Website
-- 🔹 MERN Stack Projects
-- 🔹 UI Design Projects
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 <p align="center">
+  <a href="https://apurbadutta.lol">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome" />
+  </a>
   <a href="https://linkedin.com/in/apurba-dutta-079230240">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="https://twitter.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" />
   </a>
 </p>
 
