@@ -1,34 +1,67 @@
-## <h1 align="center">hello there!🤟<h1>
-![MasterHead](https://media.licdn.com/dms/image/C4E12AQHohaaJm6qNNw/article-cover_image-shrink_600_2000/0/1630526455370?e=2147483647&v=beta&t=u2Y1Km4BQ4IpxR95UafxXD5fpu_fZvh_KE2qHvq_ngE)
 <h1 align="center">Hi 👋, I'm Apurba Dutta</h1>
-<h3 align="center">A passionate Web-developer in India.Web design is not just about creating pretty layouts. It’s about understanding the marketing challenge behind your business.</h3>
+<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
 
-<img align="right" alt="coding image" width="480px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apurba2099&label=Profile%20views&color=0e75b6&style=flat" alt="apurba2099" /> </p>
-
-- 🌱 I’m currently learning **FULL STACK WEB DEVELOPING WITH MERN STACK**
-
-- 💬 Ask me about **html,css,javascript,git**
-
-- 📫 How to reach me **apurbadutta2099@gmail.com**
-
-- ⚡ Fun fact **Computer “bug” was inspired by a real insect 🐛😂**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/apurbadutta2099" target="blank"><img align="center" src="https://img.icons8.com/color/256/twitter.png" alt="apurbadutta2099" width="40" /></a>
-<a href="https://linkedin.com/in/apurba-dutta-079230240" target="blank"><img align="center" src="https://img.icons8.com/fluency/256/linkedin-circled.png" alt="apurba-dutta-079230240" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100084888861255&mibextid=ZbWKwL" target="blank"><img align="center" src="https://img.icons8.com/color/256/facebook-new.png" alt="apurba dutta" width="40" /></a>
-<a href="https://instagram.com/apurba2099" target="blank"><img align="center" src="https://img.icons8.com/color/256/instagram-new.png" alt="apurba2099" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Learner;React+%7C+Node+%7C+MongoDB;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/c-programming.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/css3.png" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/git.png" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/html-5.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/java-coffee-cup-logo.png" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/javascript.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/256/mysql-logo.png" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/python.png" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/tailwindcss.png" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apurba2099&show_icons=true&locale=en&layout=compact" alt="apurba2099" /></p>
+## 🚀 About Me
+- 🔭 I’m currently working as a **Software Engineer Intern**
+- 🌱 I’m learning and building with **MERN Stack**
+- 💡 I love creating **clean UI + functional web apps**
+- 🧠 Problem solver & continuous learner
+- 📫 Reach me: **apurbadutta2099@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apurba2099&show_icons=true&locale=en" alt="apurba2099" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apurba2099&" alt="apurba2099" /></p>
+## 🌐 Portfolio
+👉 https://apurbadutta.lol
 
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,tailwind" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Featured Projects
+- 🔹 Movie App (React + API)
+- 🔹 Portfolio Website
+- 🔹 MERN Stack Projects
+- 🔹 UI Design Projects
+
+---
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/apurba-dutta-079230240">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
