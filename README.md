@@ -8,24 +8,27 @@
 ---
 
 ## 🚀 About Me
+
 - 💼 Currently working as a **Jr. Software Engineer Intern**
-- 🏢 Working on real client & company projects  
-- 🔧 Building full stack applications using MERN  
-- ⚡ Working with automation systems, funnels & AI agents  
-- 📈 Regular GitHub activity through personal & client work  
+- 🏢 Working on real client & company projects
+- 🔧 Building full stack applications using MERN
+- ⚡ Working with automation systems, funnels & AI agents
+- 📈 Regular GitHub activity through personal & client work
 - 📫 Email: **apurbadutta2099@gmail.com**
 
 ---
 
 ## 💼 Work Experience
-- 👨‍💻 **Jr. Software Engineer Intern**  
-  - Developing real-world applications  
-  - Building funnels, automation workflows & AI agents  
-  - Working with GoHighLevel (GHL) platform  
+
+- 👨‍💻 **Jr. Software Engineer Intern**
+  - Developing real-world applications
+  - Building funnels, automation workflows & AI agents
+  - Working with GoHighLevel (GHL) platform
 
 ---
 
 ## 🌐 Portfolio
+
 👉 https://apurbadutta.lol
 
 ---
@@ -33,41 +36,47 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 ### ⚙️ Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Database
+
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### 🧠 Additional Skills
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
-- SQL  
-- MS Excel  
+- SQL
+- MS Excel
 
 ---
 
 ## 🤖 Automation & Funnels
+
 <p>
   <img src="https://i.ibb.co/PvWhbdKN/ghl.jpg" height="80" />
 </p>
 
-- GoHighLevel (GHL) – Pipelines, Automation, Funnel Building  
-- AI Agents & Conversational Bots  
+- GoHighLevel (GHL) – Pipelines, Automation, Funnel Building
+- AI Agents & Conversational Bots
 
 ---
 
 ## 🧰 Tools & Platforms
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
@@ -76,15 +85,8 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🤝 Connect With Me
+
 <p align="center">
   <a href="https://apurbadutta.lol">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome" />
