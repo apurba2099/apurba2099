@@ -94,10 +94,10 @@
   <a href="https://linkedin.com/in/apurba-dutta-079230240">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://instagram.com/YOUR_USERNAME">
+  <a href="https://instagram.com/apurba2099">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
   </a>
-  <a href="https://twitter.com/YOUR_USERNAME">
+  <a href="https://twitter.com/apurbadutta2003">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" />
   </a>
 </p>
@@ -105,5 +105,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=apurba2099&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
